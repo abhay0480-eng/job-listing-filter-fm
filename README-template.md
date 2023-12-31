@@ -42,8 +42,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/abhay0480-eng/job-listing-filter-fm)
+- Live Site URL: [Add live site URL here](https://job-listing-filter-fm.vercel.app/)
 
 ## My process
 
@@ -99,9 +99,9 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Add your name here](https://portfolio-abhay-wine.vercel.app/)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/abhay0480-eng)
+- Twitter - [@yourusername](https://twitter.com/Abhay0480)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
